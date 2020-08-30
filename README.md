@@ -1,4 +1,4 @@
-# helm-chart-hpa
+# helm-chart-metricserver-HPA
 
 # Pre-Requisites
     - Install Git
